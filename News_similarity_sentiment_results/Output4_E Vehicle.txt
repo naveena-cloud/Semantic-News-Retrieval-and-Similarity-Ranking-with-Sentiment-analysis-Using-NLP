@@ -1,0 +1,36 @@
+Enter a news title or topic: Electric Vehicle Growth
+
+📰 Article 1 (Similarity: 0.41, Sentiment: 😐)
+Title: What Is A Type 2 Electric Vehicle? Explainer
+Source: Times Now
+URL: https://www.timesnownews.com/auto/electric-vehicles/what-is-a-type-2-electric-vehicle-explainer-article-153386684
+Published: 2026-01-03T02:30:00Z
+Description: In India, the Type 2 was standardized in 2017, following its successful implementation in Europe. This move aimed to streamline the charging process for electric vehicle users in the country, facilita...
+
+📰 Article 2 (Similarity: 0.16, Sentiment: 😐)
+Title: EV sales set to experience slowest growth since the pandemic
+Source: City A.M.
+URL: https://www.cityam.com/electric-vehicle-sales-set-to-experience-slowest-growth-since-the-pandemic/
+Published: 2026-01-03T11:35:32Z
+Description: Electric vehicle sales are set for their slowest annual growth since the pandemic damaged sales in 2020, as demand for the vehicles weaken....
+
+📰 Article 3 (Similarity: 0.00, Sentiment: 😐)
+Title: BYD overtakes Tesla as worlds largest EV seller in 2025
+Source: Livemint
+URL: https://www.livemint.com/companies/news/byd-overtakes-tesla-as-worlds-largest-ev-seller-in-2025-11767415935094.html
+Published: 2026-01-03T04:52:14Z
+Description: Chinese automaker BYD surpassed Tesla in full-year electric vehicle sales for the first time in 2025, securing its position as the world's largest electric vehicle seller, according to a Global Times ...
+
+📰 Article 4 (Similarity: 0.00, Sentiment: 😐)
+Title: BYD overtakes Tesla as world's largest EV seller in 2025
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/byd-overtakes-tesla-as-worlds-largest-ev-seller-in-2025/
+Published: 2026-01-03T04:50:29Z
+Description: Chinese automaker BYD surpassed Tesla in full-year electric vehicle sales for the first time in 2025, securing its position as the world's largest electric vehicle seller, according to a Global Times ...
+
+📰 Article 5 (Similarity: 0.00, Sentiment: 👍)
+Title: Tesla’s 2025 deliveries drop 16% to 1.64 million, marking a second straight annual decline as BYD overtakes the global EV market
+Source: TechStartups.com
+URL: https://techstartups.com/2026/01/02/teslas-2025-deliveries-drop-16-to-1-64-million-marking-a-second-straight-annual-decline-as-byd-overtakes-the-global-ev-market/
+Published: 2026-01-02T16:18:35Z
+Description: Tesla closed out 2025 with another clear signal that its growth era is under pressure. On Friday, Tesla released its fourth-quarter vehicle production and delivery report, confirming a second straight...

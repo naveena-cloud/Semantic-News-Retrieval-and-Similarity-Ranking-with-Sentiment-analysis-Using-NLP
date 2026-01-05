@@ -1,0 +1,36 @@
+Enter a news title or topic: Digital Payment Security
+
+📰 Article 1 (Similarity: 0.30, Sentiment: 😐)
+Title: Biometric Authentication to Strengthen Payment Security in India as Visa Introduces Payment Passkey Under RBI 2025 Directions
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/personal-finance/how-biometric-authentication-can-change-indians-secure-digital-payments-explains-visa-ws-l-19794379.htm
+Published: 2025-12-17T13:16:27Z
+Description: Visa and Reserve Bank of India advance biometric authentication for secure digital payments, with payment passkey launching in India from April 2026....
+
+📰 Article 2 (Similarity: 0.13, Sentiment: 👍)
+Title: Your first Social Security check in 2026: How the 2.8% Social Security COLA changes monthly checks?
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/international/us/your-first-social-security-check-in-2026-how-the-2-8-social-security-cola-changes-monthly-checks-when-it-arrives-and-what-changes/articleshow/126190778.cms
+Published: 2025-12-26T14:13:00Z
+Description: Millions of seniors will see a 2.8% COLA increase in their 2026 Social Security checks. This adds roughly $56 monthly to average retirement benefits starting this January. However, surging 11.6% Medic...
+
+📰 Article 3 (Similarity: 0.06, Sentiment: 😐)
+Title: From PAN-Aadhaar linking & UPI security updates to 8th pay commission: What changes from January 1, 2026
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/india/2025/12/30/major-changes-january-1-2026-deadlines-banking-medisep-pan-aadhaar-prices-pay-commission.html
+Published: 2025-12-30T16:30:11Z
+Description: From PAN–Aadhaar linking and tighter digital payment security to salary revisions under the 8th Pay Commission and higher health insurance premiums,.Major changes 2026, Major deadlines, Banking change...
+
+📰 Article 4 (Similarity: 0.00, Sentiment: 👍)
+Title: Bank Checks: Everything You Need to Know About Secure Paper Payments
+Source: TechBullion
+URL: https://techbullion.com/bank-checks-everything-you-need-to-know-about-secure-paper-payments/
+Published: 2026-01-03T08:11:28Z
+Description: Bank checks remain one of the most trusted and widely used payment methods in personal and business finance. Despite the growth of digital payment systems, bank checks continue to play a vital role in...
+
+📰 Article 5 (Similarity: 0.00, Sentiment: 😐)
+Title: Freelance Virtual Cards: A Smarter Way for Freelancers to Manage Payments
+Source: TechBullion
+URL: https://techbullion.com/freelance-virtual-cards-a-smarter-way-for-freelancers-to-manage-payments/
+Published: 2025-12-26T01:24:41Z
+Description: In today’s fast-paced digital economy, freelancers need flexible, secure, and efficient financial tools to manage their income and expenses. One solution gaining popularity among independent professio...

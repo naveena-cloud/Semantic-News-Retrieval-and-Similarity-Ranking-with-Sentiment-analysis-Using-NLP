@@ -1,0 +1,36 @@
+Enter a news title or topic: Global Economic Outlook
+
+📰 Article 1 (Similarity: 0.52, Sentiment: 👍)
+Title: Global Political and Economic Events: A January-February Outlook
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/law-order/3747739-global-political-and-economic-events-a-january-february-outlook
+Published: 2026-01-02T12:36:15Z
+Description: This content is about a diary listing various political and economic events scheduled from January to February. It mentions key events like elections, summits, and official visits involving countries ...
+
+📰 Article 2 (Similarity: 0.08, Sentiment: 😐)
+Title: Nominal GDP uptick to lift earnings and equity outlook next year: Taimur Baig
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/markets/expert-view/liquidity-is-ample-capital-markets-face-no-real-constraint-taimur-baig/articleshow/126301835.cms
+Published: 2026-01-02T08:16:00Z
+Description: India's economy is set for a strong rebound in 2026. Retail sales and consumer sentiment are improving, indicating robust growth. Experts predict a healthy nominal GDP expansion. Foreign investor inte...
+
+📰 Article 3 (Similarity: 0.07, Sentiment: 👍)
+Title: India poised to emerge as 'Office of the World', EY Report highlights strong long-term outlook
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/economy/infrastructure/india-poised-to-emerge-as-office-of-the-world-ey-report-highlights-strong-long-term-outlook/articleshow/126283152.cms
+Published: 2026-01-01T05:36:00Z
+Description: India is set to become a global growth powerhouse. Its IT sector, digital transformation, and young population will drive this expansion. Improved infrastructure and credit access will further boost t...
+
+📰 Article 4 (Similarity: 0.00, Sentiment: 👎)
+Title: This is how Britain can triumph in an unpredictable world
+Source: The Telegraph
+URL: https://www.telegraph.co.uk/business/2026/01/04/this-is-how-britain-can-triumph-in-an-unpredictable-world/
+Published: 2026-01-04T07:00:00Z
+Description: The UK’s economic outlook will be heavily influenced by global factors...
+
+📰 Article 5 (Similarity: 0.00, Sentiment: 👎)
+Title: Japan GDP likely to fall behind India in 2026, hit by weak yen
+Source: Japan Today
+URL: https://japantoday.com/category/business/focus-japan-gdp-to-fall-behind-india-in-2026-hit-by-weak-yen-tourism-slowdown
+Published: 2026-01-03T21:12:00Z
+Description: Japan's economy is likely to fall behind India's in 2026 to fifth place in the world, according to an International Monetary Fund's estimate, potentially diminishing the East Asian nation's presence o...

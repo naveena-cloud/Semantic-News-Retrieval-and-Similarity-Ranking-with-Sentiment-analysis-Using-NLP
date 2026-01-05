@@ -1,0 +1,22 @@
+Enter a news title or topic: Cybersecurity Risks Today
+
+📰 Article 1 (Similarity: 0.25, Sentiment: 😐)
+Title: Rising Third-Party Risks and Persistent Ransomware Threats Drive Increased Cybersecurity Investments in 2026: Marsh Report
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/rising-third-party-risks-and-persistent-ransomware-threats-drive-increased-cybersecurity-investments-ce7d51d2d081f421
+Published: 2025-12-09T15:34:08Z
+Description: In a global cyber environment marked by major security lapses, cyberattacks, and technology outages, new research released today by Marsh, the world’s leading insurance broker and risk advisor and a.....
+
+📰 Article 2 (Similarity: 0.12, Sentiment: 👍)
+Title: Top Tech News Today: AI & Startup Stories, December 11, 2025
+Source: TechStartups.com
+URL: https://techstartups.com/2025/12/11/technology-news-today-the-latest-in-tech-ai-startup-news-december-11-2025-2/
+Published: 2025-12-11T14:00:32Z
+Description: Top Tech News Today – Your Daily Briefing on AI, Big Tech, Cybersecurity, and the Global Tech Shifts Reshaping Markets It’s Thursday, December 11, 2025, and we’re back with a focused look at the force...
+
+📰 Article 3 (Similarity: 0.10, Sentiment: 👍)
+Title: Technology News Today - The Latest in Tech, AI & Startup News, December 10, 2025
+Source: TechStartups.com
+URL: https://techstartups.com/2025/12/11/technology-news-today-the-latest-in-tech-ai-startup-news-december-10-2025-2/
+Published: 2025-12-11T14:00:32Z
+Description: Top Tech News Today – Your Daily Briefing on AI, Big Tech, Cybersecurity, and the Global Tech Shifts Reshaping Markets It’s Thursday, December 11, 2025, and we’re back with a focused look at the force...

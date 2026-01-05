@@ -1,0 +1,36 @@
+Enter a news title or topic: Green Energy Policies
+
+📰 Article 1 (Similarity: 0.17, Sentiment: 👎)
+Title: Growatt 2025 Pakistan Market Year in Review - Powering Green Energy Storage for Homes and Businesses
+Source: pv magazine
+URL: https://www.pv-magazine.com/press-releases/growatt-2025-pakistan-market-year-in-review-powering-green-energy-storage-for-homes-and-businesses/
+Published: 2025-12-29T18:59:49Z
+Description: In 2025, the demand for energy storage in Pakistan continued to grow. Frequent power outages and an unstable grid have made reliable, efficient, and smart energy storage solutions increasingly essenti...
+
+📰 Article 2 (Similarity: 0.10, Sentiment: 👍)
+Title: New Mexico senators' affordability claims clash with Green New Deal support
+Source: Albuquerque Journal
+URL: https://www.abqjournal.com/opinion/opinion-heinrich-and-lujan-have-no-credibility-on-affordability/2951569
+Published: 2026-01-04T08:08:00Z
+Description: As gas prices hit 4-year lows, energy expert Larry Behrens challenges Senators Heinrich and Luján's affordability concerns while they support Green New Deal policies that increase costs for New Mexico...
+
+📰 Article 3 (Similarity: 0.08, Sentiment: 👍)
+Title: British Gas handing customers £134 off energy bills in major shake-up
+Source: Birmingham Live
+URL: https://www.birminghammail.co.uk/news/cost-of-living/british-gas-handing-customers-134-33060356
+Published: 2026-01-03T10:55:00Z
+Description: From April 2026, the typical household will save up to £134 on energy bills through new policies removing legacy costs and green levies....
+
+📰 Article 4 (Similarity: 0.08, Sentiment: 😐)
+Title: Long-term policy support key to meeting India's renewable energy goals: Experts
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/industry/renewables/long-term-policy-support-key-to-meeting-indias-renewable-energy-goals-experts/articleshow/126264527.cms
+Published: 2025-12-31T05:15:00Z
+Description: India is making significant strides in renewable energy. Experts highlight the need for strong policies and technology to meet future goals. Grid upgrades and storage are national priorities. Emerging...
+
+📰 Article 5 (Similarity: 0.00, Sentiment: 😐)
+Title: The Resilience of the Church of Climate
+Source: Watts Up With That
+URL: https://wattsupwiththat.com/2025/12/25/the-resilience-of-the-church-of-climate/
+Published: 2025-12-25T14:00:00Z
+Description: In the aftermath of the UN’s COP30 climate summit in Belem, Brazil, several commentators have claimed that the age of climate alarmism may finally be fraying at the edges. The Wall Street Journal conc...

@@ -1,0 +1,36 @@
+Enter a news title or topic: Climate change and extreme weather events
+
+📰 Article 1 (Similarity: 0.13, Sentiment: 👎)
+Title: The climate insurance gap is widening, and it's leaving marginalized Canadians behind
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-12-climate-gap-widening-marginalized-canadians.html
+Published: 2025-12-22T15:42:23Z
+Description: Every year, extreme weather events wreak havoc across Canada, disrupting the lives of tens of thousands. Financial losses from these events have surged, surpassing $7 billion in 2024, due in part to c...
+
+📰 Article 2 (Similarity: 0.04, Sentiment: 👎)
+Title: Climate extremes in 2025 disproportionately hit poor communities, scientists warn
+Source: The Morning Star
+URL: https://morningstaronline.co.uk/article/climate-extremes-2025-disproportionately-hit-poor-communities-scientists-warn
+Published: 2025-12-30T00:00:00Z
+Description: EXTREME weather events driven by human-induced climate change continued to disproportionately hit poorer communities in 2025, a group of international scientists has found.The last year saw devastatin...
+
+📰 Article 3 (Similarity: 0.04, Sentiment: 😐)
+Title: Climate disasters cost the world over $120 billion in 2025: Report
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/india/climate-disasters-cost-the-world-over-120-billion-in-2025-report/articleshow/126207755.cms
+Published: 2025-12-27T18:04:00Z
+Description: Climate change cost the world over $120 billion in 2025 due to extreme weather events like heatwaves, wildfires, and storms. The report highlights that fossil fuel companies are central to this crisis...
+
+📰 Article 4 (Similarity: 0.04, Sentiment: 😐)
+Title: Climate extremes in 2025 exposed inequality; millions closer to limits of adaptation: Report
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/india/climate-extremes-in-2025-exposed-inequality-millions-closer-to-limits-of-adaptation-report/articleshow/126250904.cms
+Published: 2025-12-30T10:52:00Z
+Description: Year ender 2025: Extreme weather events fueled by climate change impacted the world in 2025. Heatwaves, droughts, storms, and wildfires intensified. Millions faced the limits of adaptation. Global tem...
+
+📰 Article 5 (Similarity: 0.00, Sentiment: 😐)
+Title: The White House is dismantling systems critical to our survival
+Source: Los Angeles Times
+URL: https://www.latimes.com/opinion/letters-to-the-editor/story/2025-12-19/national-center-for-atmospheric-research-trump
+Published: 2025-12-19T13:30:00Z
+Description: 'It isn’t only National Center for Atmospheric Research scientists who are alarmed, but atmospheric and climate scientists around the world who warn of climate change and extreme weather events,' writ...

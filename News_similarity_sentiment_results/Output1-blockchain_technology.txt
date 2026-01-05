@@ -1,0 +1,31 @@
+Enter a news title or topic: Blockchain technology in digital finance
+
+📰 Article 1 (Similarity: 0.21, Sentiment: 👎)
+Title: OSN and the Blockchain Center Abu Dhabi Announce Strategic Partnership to Accelerate Digital Asset and Stablecoin Infrastructure in the UAE
+Source: The Manila Times
+URL: https://www.manilatimes.net/2025/12/10/tmt-newswire/pr-newswire/osn-and-the-blockchain-center-abu-dhabi-announce-strategic-partnership-to-accelerate-digital-asset-and-stablecoin-infrastructure-in-the-uae/2240782
+Published: 2025-12-10T13:09:01Z
+Description: **media[862042]**ABU DHABI, UAE, Dec. 10, 2025 /PRNewswire/ -- Open Stable Network (OSN) and the Blockchain Center Abu Dhabi (ADBC) today announced the signing of a strategic partnership at Abu Dhabi ...
+
+📰 Article 2 (Similarity: 0.20, Sentiment: 😐)
+Title: RWA Tokenization Is Already Disrupting Finance in 2026: Crypto Exec
+Source: Cointelegraph
+URL: https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media
+Published: 2025-12-21T22:17:28Z
+Description: Tokenizing real-world assets on blockchain will disrupt the financial industry in a profound way, similar to how digital technology disrupted analog media....
+
+📰 Article 3 (Similarity: 0.00, Sentiment: 😐)
+Title: WSPN and TradeGo Partner to Bring Global Commodity Trade and Stablecoin Settlements On-Chain Across Australia, Asia, and LATAM
+Source: The Manila Times
+URL: https://www.manilatimes.net/2025/12/23/tmt-newswire/pr-newswire/wspn-and-tradego-partner-to-bring-global-commodity-trade-and-stablecoin-settlements-on-chain-across-australia-asia-and-latam/2248635
+Published: 2025-12-23T10:25:38Z
+Description: **media[878192]**TORTOLA, British Virgin Islands, Dec. 23, 2025 /PRNewswire/ -- Worldwide Stablecoin Payment Network (WSPN), a leading provider of next-generation stablecoin infrastructure, today anno...
+
+📰 Article 4 (Similarity: 0.00, Sentiment: 👍)
+Title: How Real World Asset Protocols Are Turning Illiquid Assets Into Investable Products
+Source: Benzinga
+URL: https://www.benzinga.com/Opinion/25/12/49537371/how-real-world-asset-protocols-are-turning-illiquid-assets-into-investable-products
+Published: 2025-12-22T14:46:30Z
+Description: Blockchain technology is solving a problem that has existed in finance for centuries: how do you make expensive, illiquid assets accessible to everyday investors? The answer involves converting tradit...
+
+
